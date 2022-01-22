@@ -1,0 +1,2 @@
+# pythonlearn
+from a class
